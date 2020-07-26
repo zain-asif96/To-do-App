@@ -25,6 +25,10 @@ input::placeholder {
   text-shadow: 1px 1px 5px #ffffff7a;
 }
 
+#todoitem {
+  text-align: center;
+}
+
 #todoitem-list {
   padding: 0;
   margin: 0;
@@ -38,7 +42,6 @@ input::placeholder {
   padding: 12px;
   box-shadow: inset 1px 1px 13px 0px #ffffff;
   list-style-position: inside;
-  text-align: center;
 }
 
 .edit-btn,
